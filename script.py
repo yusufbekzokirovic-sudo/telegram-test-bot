@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.INFO)
 # -------------------------------------------------------------
 # 1. BOT SOZLAMALARI VA TOKEN
 # -------------------------------------------------------------
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # BotFather'dan olingan tokeningiz
-ADMIN_ID = 123456789              # O'zingizning Telegram ID-ingizni kiriting
+BOT_TOKEN = "7074848184:AAEbKHXDuYofwtPeCZ5Tc9YHE8udULvsB5A"  # BotFather'dan olingan tokeningiz
+ADMIN_ID = 1763787601              # O'zingizning Telegram ID-ingizni kiriting
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
